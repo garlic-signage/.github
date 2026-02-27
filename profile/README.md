@@ -1,7 +1,7 @@
 # GarlicSignage
 
 Digital signage without vendor lock-in, monthly fees, or proprietary black boxes.  
-A complete open-source stack, compatible to the [SMIL](https://www.w3.org/TR/SMIL3/) standard.
+A complete open-source stack, compatible to the [SMIL](https://garlic-signage.com/resources/digital-signage-smil/) standard.
 
 ## The Stack
 
