@@ -1,7 +1,13 @@
 # GarlicSignage
+A complete open-source digital signage stack, built on the 
+[SMIL](https://garlic-signage.com/resources/digital-signage-smil/) standard.
 
-Digital signage without vendor lock-in, monthly fees, or proprietary black boxes.  
-A complete open-source stack, compatible to the [SMIL](https://garlic-signage.com/resources/digital-signage-smil/) standard.
+- No vendorlock-in
+- No forced cloud
+- No subscriptions
+- No black boxes
+
+Just open infrastructure.
 
 ## The Stack
 
@@ -14,20 +20,17 @@ A complete open-source stack, compatible to the [SMIL](https://garlic-signage.co
 | [garlic-proxy](https://github.com/garlic-signage/garlic-proxy) | Proxy for restricted network environments | Self-hosted |
 
 ## Why SMIL?
-
-SMIL is a W3C standard from 1998 that the industry quietly adopted and then buried under 
-proprietary layers. It works. It's vendor-neutral. We think it deserves better tooling.
+SMIL is to multimedia what HTML is to documents: the [W3C standard](https://www.w3.org/TR/SMIL3/). Not one of many. The one since 1998. It works. It's vendor-neutral and brings transparency to an industry that profits from lock-in. Digital signage deserves better than proprietary prisons.
 
 ## License
-
 All projects are [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html).  
-Free to use, free to modify, source stays open.
+Free to use. Fully open.
 
 ## Get Involved
-
 - Bug reports and feature requests → Issues in the respective repo
 - Questions → [Discussions](https://github.com/orgs/garlic-signage/discussions)
-- Custom development → [smil-control.com](https://smil-control.com)
-- Support the project → [GitHub Sponsors](https://github.com/sponsors/sagiadinos)
+- Commercial support & custom development → [smil-control.com](https://smil-control.com)
+
+Support the project → [GitHub Sponsors](https://github.com/sponsors/sagiadinos)
 
 → [garlic-signage.com](https://garlic-signage.com)
