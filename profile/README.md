@@ -2,7 +2,7 @@
 A complete open-source digital signage stack, built on the 
 [SMIL](https://garlic-signage.com/resources/digital-signage-smil/) standard.
 
-- No vendorlock-in
+- No vendor lock-in
 - No forced cloud
 - No subscriptions
 - No black boxes
