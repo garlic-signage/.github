@@ -18,6 +18,9 @@ Just open infrastructure.
 | [garlic-launcher](https://github.com/garlic-signage/garlic-launcher) | Root-free Android kiosk launcher | Android |
 | [garlic-daemon](https://github.com/garlic-signage/garlic-daemon) | systemd-based player maintenance (in development) | Linux |
 | [garlic-proxy](https://github.com/garlic-signage/garlic-proxy) | Proxy for restricted network environments | Self-hosted |
+| [garlic-widgets](https://github.com/garlic-signage/garlic-widgets) | Widget Library based on W3C Packedsites WEb | HTML5 |
+| [garlic-widgets-jetbrains](https://...) | Widget development plugin | JetBrains |
+| [garlic-widgets-vscode](https://...) | Widget development plugin | VS Code |
 
 ## Why SMIL?
 SMIL is to multimedia what HTML is to documents: the [W3C standard](https://www.w3.org/TR/SMIL3/). Not one of many. The one since 1998. It works. It's vendor-neutral and brings transparency to an industry that profits from lock-in. Digital signage deserves better than proprietary prisons.
