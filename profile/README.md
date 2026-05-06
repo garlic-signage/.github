@@ -17,8 +17,8 @@ Just open infrastructure.
 | [garlic-hub](https://github.com/garlic-signage/garlic-hub) | CMS & Device Management | Self-hosted |
 | [garlic-launcher](https://github.com/garlic-signage/garlic-launcher) | Root-free Android kiosk launcher | Android |
 | [garlic-proxy](https://github.com/garlic-signage/garlic-proxy) | Proxy for restricted network environments | Self-hosted |
-| [garlic-widgets](https://github.com/garlic-signage/garlic-widgets) | Widget Library based on W3C Packedsites WEb | HTML5 |
-| [garlic-widgets-jetbrains]((https://github.com/garlic-signage/garlic-widgets-jetbrains)) | Widget development plugin | JetBrains |
+| [garlic-widgets](https://github.com/garlic-signage/garlic-widgets) | Widget Library based on W3C Packed Web Wites | HTML5 |
+| [garlic-widgets-jetbrains](https://github.com/garlic-signage/garlic-widgets-jetbrains) | Widget development plugin | JetBrains |
 | [garlic-widgets-vscode](https://github.com/garlic-signage/garlic-widgets-vscode) | Widget development plugin | VS Code |
 
 ## Why SMIL?
