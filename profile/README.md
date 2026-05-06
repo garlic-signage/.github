@@ -16,7 +16,6 @@ Just open infrastructure.
 | [garlic-player](https://github.com/garlic-signage/garlic-player) | SMIL media player | Linux, Android, macOS, Windows |
 | [garlic-hub](https://github.com/garlic-signage/garlic-hub) | CMS & Device Management | Self-hosted |
 | [garlic-launcher](https://github.com/garlic-signage/garlic-launcher) | Root-free Android kiosk launcher | Android |
-| [garlic-daemon](https://github.com/garlic-signage/garlic-daemon) | systemd-based player maintenance (in development) | Linux |
 | [garlic-proxy](https://github.com/garlic-signage/garlic-proxy) | Proxy for restricted network environments | Self-hosted |
 | [garlic-widgets](https://github.com/garlic-signage/garlic-widgets) | Widget Library based on W3C Packedsites WEb | HTML5 |
 | [garlic-widgets-jetbrains](https://...) | Widget development plugin | JetBrains |
