@@ -18,8 +18,8 @@ Just open infrastructure.
 | [garlic-launcher](https://github.com/garlic-signage/garlic-launcher) | Root-free Android kiosk launcher | Android |
 | [garlic-proxy](https://github.com/garlic-signage/garlic-proxy) | Proxy for restricted network environments | Self-hosted |
 | [garlic-widgets](https://github.com/garlic-signage/garlic-widgets) | Widget Library based on W3C Packedsites WEb | HTML5 |
-| [garlic-widgets-jetbrains](https://...) | Widget development plugin | JetBrains |
-| [garlic-widgets-vscode](https://...) | Widget development plugin | VS Code |
+| [garlic-widgets-jetbrains]((https://github.com/garlic-signage/garlic-widgets-jetbrains)) | Widget development plugin | JetBrains |
+| [garlic-widgets-vscode](https://github.com/garlic-signage/garlic-widgets-vscode) | Widget development plugin | VS Code |
 
 ## Why SMIL?
 SMIL is what a broadcast schedule is to television: it defines what plays, when, and where. Not how it looks. It is [W3C standard](https://www.w3.org/TR/SMIL3/) since 1998 and vendor-neutral. SMIL was built to schedule and synchronize media across zones, playlists, and devices. [Not to render content](https://sagiadinos.com/articles/you-all-got-smil-wrong/).
