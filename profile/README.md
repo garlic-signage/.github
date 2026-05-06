@@ -23,7 +23,9 @@ Just open infrastructure.
 | [garlic-widgets-vscode](https://...) | Widget development plugin | VS Code |
 
 ## Why SMIL?
-SMIL is to multimedia what HTML is to documents: the [W3C standard](https://www.w3.org/TR/SMIL3/). Not one of many. The one since 1998. It works. It's vendor-neutral and brings transparency to an industry that profits from lock-in. Digital signage deserves better than proprietary prisons.
+SMIL is what a broadcast schedule is to television: it defines what plays, when, and where. Not how it looks. It is [W3C standard](https://www.w3.org/TR/SMIL3/) since 1998 and vendor-neutral. SMIL was built to schedule and synchronize media across zones, playlists, and devices. [Not to render content](https://sagiadinos.com/articles/you-all-got-smil-wrong/).
+
+The digital signage industry has spent decades reinventing this wheel behind proprietary walls. SMIL breaks that forced marriage between CMS and player, enabling open, interoperable infrastructure any vendor can build on. And it breaks the vendor lock-in that the industry profits from.
 
 ## License
 All projects are [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html).  
