@@ -22,6 +22,10 @@ YHWXBI3j5ZEI
 =cJnX
 -----END PGP PUBLIC KEY BLOCK-----
 
+## Response Time
+
+I will acknowledge receipt within 72 hours.
+
 ## Bug Bounty
 
 This is an open source project maintained by a single developer. 
