@@ -27,8 +27,8 @@ SMIL is what a broadcast schedule is to television: it defines what plays, when,
 The digital signage industry has spent decades reinventing this wheel behind proprietary walls. SMIL breaks that forced marriage between CMS and player, enabling open, interoperable infrastructure any vendor can build on. And it breaks the vendor lock-in that the industry profits from.
 
 ## License
-All projects are [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html).  
-Free to use. Fully open.
+Most projects are [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.html), some like the Widgets are MIT Licensed.  
+All free to use. Fully open.
 
 ## Get Involved
 - Bug reports and feature requests → Issues in the respective repo
