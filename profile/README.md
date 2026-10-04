@@ -1,6 +1,9 @@
 # GarlicSignage
 Modular open-source digital signage, built on the [SMIL](https://garlic-signage.com/resources/digital-signage-smil/) standard.
-Every component works on its own. Use one, combine a few, or run all of them.
+
+Garlic-player has been running on around 2000 screens in production since 2020.
+
+Most component works on their own. Use one, combine a few, or run all of them.
 
 - Use garlic-player with any SMIL 3.0 CMS
 - Use garlic-hub with any SMIL 3.0 player
