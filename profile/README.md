@@ -1,25 +1,26 @@
 # GarlicSignage
-A complete open-source digital signage stack, built on the 
-[SMIL](https://garlic-signage.com/resources/digital-signage-smil/) standard.
+Modular open-source digital signage, built on the [SMIL](https://garlic-signage.com/resources/digital-signage-smil/) standard.
+Every component works on its own. Use one, combine a few, or run all of them.
 
-- No vendor lock-in
-- No forced cloud
-- No subscriptions
-- No black boxes
+- Use garlic-player with any SMIL 3.0 CMS
+- Use garlic-hub with any SMIL 3.0 player
+- No vendor lock-in, no forced cloud, no subscriptions
 
 Just open infrastructure.
 
-## The Stack
+## The Components
 
-| Project | What it does | Platform |
-|---|---|---|
-| [garlic-player](https://github.com/garlic-signage/garlic-player) | SMIL media player | Linux, Android, macOS, Windows |
-| [garlic-hub](https://github.com/garlic-signage/garlic-hub) | CMS & Device Management | Self-hosted |
-| [garlic-launcher](https://github.com/garlic-signage/garlic-launcher) | Root-free Android kiosk launcher | Android |
-| [garlic-proxy](https://github.com/garlic-signage/garlic-proxy) | Proxy for restricted network environments | Self-hosted |
-| [garlic-widgets](https://github.com/garlic-signage/garlic-widgets) | Widget Library based on W3C Packed Web Wites | HTML5 |
-| [garlic-widgets-jetbrains](https://github.com/garlic-signage/garlic-widgets-jetbrains) | Widget development plugin | JetBrains |
-| [garlic-widgets-vscode](https://github.com/garlic-signage/garlic-widgets-vscode) | Widget development plugin | VS Code |
+| Project | What it does | Standalone | Platform |
+| --- | --- | --- | --- |
+| [garlic-player](https://github.com/garlic-signage/garlic-player) | SMIL media player | Yes, even from a USB stick | Linux, Android, macOS, Windows |
+| [garlic-hub](https://github.com/garlic-signage/garlic-hub) | CMS & Device Management | Yes, exports standard SMIL | Self-hosted |
+| [garlic-launcher](https://github.com/garlic-signage/garlic-launcher) | Root-free Android kiosk launcher | Needs an Android player | Android |
+| [garlic-proxy](https://github.com/garlic-signage/garlic-proxy) | Proxy for restricted network environments | Optional | Self-hosted |
+| [garlic-widgets](https://github.com/garlic-signage/garlic-widgets) | HTML5 widget library (W3C Packaged Web Apps) | Yes | HTML5 |
+| [garlic-widgets-jetbrains](https://github.com/garlic-signage/garlic-widgets-jetbrains) | Widget development plugin | Yes | JetBrains |
+| [garlic-widgets-vscode](https://github.com/garlic-signage/garlic-widgets-vscode) | Widget development plugin | Yes | VS Code |
+
+In development: [garlic-analytics]((https://github.com/garlic-signage/garlic-hub)) (playback reporting for digital signage player)
 
 ## Why SMIL?
 SMIL is what a broadcast schedule is to television: it defines what plays, when, and where. Not how it looks. It is [W3C standard](https://www.w3.org/TR/SMIL3/) since 1998 and vendor-neutral. SMIL was built to schedule and synchronize media across zones, playlists, and devices. [Not to render content](https://sagiadinos.com/articles/you-all-got-smil-wrong/).
